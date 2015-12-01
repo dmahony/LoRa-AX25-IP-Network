@@ -40,7 +40,7 @@ Both of these modules communicate via UART so I'm guessing it would be much easi
 Any of previously mentioned modules connected to the cheap Raspberry Pi Zero via either SPI or UART
 
 
-Inspirations:<br> 
+<b>Inspirations:</b><br> 
 <a href="http://ossmann.blogspot.com.au/2012/10/the-toorcon-14-badge.html">Toorcon 14 badge hacked into RF chat system in 2 days!</a><br>
 Toorchat <a href="https://github.com/hathcox/ToorChat">Toorchat github</a><br>
 
@@ -51,4 +51,12 @@ Toorchat <a href="https://github.com/hathcox/ToorChat">Toorchat github</a><br>
 Contact.<br>
 If anyone would like to contribute or ask any questions please don't hesitate to contact me on danielwmahony@gmail.com
 
+<b>Possible Github repos to use</b><br> 
+<a href="https://github.com/mayeranalytics/pySX127x">pySX127x </a><br>
+<a href="https://github.com/PaulStoffregen/RadioHead">RadioHead Packet Library</a>
+<a href="https://github.com/hathcox/ToorChat">Toorchat</a>
+<a href="https://github.com/Lora-net">Lora-net</a>
+<a href="https://github.com/PiInTheSky/lora-gateway">PiInTheSky Lora-gateway</a>
+<a href="https://github.com/telecombretagne/LoRaFABIAN">LoRaFABIAN</a>
+<a href="https://github.com/TheThingsNetwork/">TheThingsNetwork</a>
 
