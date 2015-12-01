@@ -47,5 +47,7 @@ Inspirations:<br>
 
 <a href="http://www.gotenna.com/">GoTenna device, similar idea to what I want but uses the Multi Use Radio System (MURS) and is expensive.</a><br>
 
+Contact.<br>
+If anyone would like to contribute or ask any questions please don't hesitate to contact me on danielwmahony@gmail.com
 
 
