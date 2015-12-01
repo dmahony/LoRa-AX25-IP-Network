@@ -42,6 +42,8 @@ Any of previously mentioned modules connected to the cheap Raspberry Pi Zero via
 
 Inspirations:<br> 
 <a href="http://ossmann.blogspot.com.au/2012/10/the-toorcon-14-badge.html">Toorcon 14 badge hacked into RF chat system in 2 days!</a><br>
+Toorchat <a href="https://github.com/hathcox/ToorChat">Toorchat github</a><br>
+
 
 <a href="http://www.gotenna.com/">GoTenna device, similar idea to what I want but uses the Multi Use Radio System (MURS) and is expensive.</a><br>
 
