@@ -18,13 +18,15 @@ Inair9b (sx1276) with an Arduino Nano via SPI and connects to A5-V11 OpenWRT rou
 Inair9b (sx1276) connected to Raspberry Pi via SPI using pySX127x https://github.com/mayeranalytics/pySX127x
 
 Future Prototypes
-Both of these modules communicate via UART so I'm guessing it would be much easier to send data
-HopeRF HM-TRP connected via UART to either Raspberry Pi or OpenWRT (cons; not LoRa! significantly less range)
-http://www.anarduino.com/details.jsp?pid=139
-HopeRF HM-TRLR-S connected via UART to either Raspberry Pi or OpenWRT (cons; Expensive!)
+Both of these modules communicate via UART so I'm guessing it would be much easier to send data.
+
+<a href="http://www.anarduino.com/details.jsp?pid=139">HopeRF HM-TRP</a> connected via UART to either Raspberry Pi or OpenWRT (cons; not LoRa! significantly less range)
+
+
+<a href="http://www.hoperf.com/rf/data_link_module/HM-TRLR-S.htm">HopeRF HM-TRLR-S</a> connected via UART to either Raspberry Pi or OpenWRT (cons; Expensive!)
 http://www.hoperf.com/rf/data_link_module/HM-TRLR-S.htm
 
-<a href="http://www.hoperf.com/rf/data_link_module/HM-TRLR-S.htm">HopeRF HM-TRLR-S</a>
+
 
 
 Any of previously mentioned modules connected to the cheap Raspberry Pi Zero via either SPI or UART
