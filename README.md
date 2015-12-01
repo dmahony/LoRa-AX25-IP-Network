@@ -1,4 +1,4 @@
-# Lora-Chat-device
+# Lora-Chat-Device
 Using cheap LoRa wireless modules to chat over long distances.
 
 This is a work in progress project to try and get LoRa wireless modules to chat to each other.
