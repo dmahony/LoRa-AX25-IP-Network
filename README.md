@@ -11,12 +11,14 @@ Eg:
 upload image to webpage > webpage converts to base64 and breaks it into max payload length chunks and adds flag to indicate file type > sends data via LoRa > other LoRa recieves text with flag telling to convert base64 to image > displays in chat box
 
 <b>Current prototypes are using:</b>
+
 Inair9b (sx1276) with an Arduino Nano via SPI and connects to A5-V11 OpenWRT router via usb serial adapter using  <a href="https://github.com/PaulStoffregen/RadioHead">RadioHead Packet Library</a>
 
 Inair9b (sx1276) connected to Raspberry Pi via SPI using <a href="https://github.com/mayeranalytics/pySX127x">pySX127x </a>
 
 
 <b>Future Prototypes</b>
+
 Both of these modules communicate via UART so I'm guessing it would be much easier to send data.
 
 <a href="http://www.anarduino.com/details.jsp?pid=139">HopeRF HM-TRP</a> connected via UART to either Raspberry Pi or OpenWRT (cons; not LoRa! significantly less range)
