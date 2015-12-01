@@ -24,7 +24,7 @@ Both of these modules communicate via UART so I'm guessing it would be much easi
 
 
 <a href="http://www.hoperf.com/rf/data_link_module/HM-TRLR-S.htm">HopeRF HM-TRLR-S</a> connected via UART to either Raspberry Pi or OpenWRT (cons; Expensive!)
-http://www.hoperf.com/rf/data_link_module/HM-TRLR-S.htm
+
 
 
 
