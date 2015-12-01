@@ -31,6 +31,7 @@ Both of these modules communicate via UART so I'm guessing it would be much easi
  <img src="http://www.anarduino.com/images/hm-trp100.png" alt="HM-TRP" align="left"> 
 <br>
 <br>
+<br>
 <a href="http://www.hoperf.com/rf/data_link_module/HM-TRLR-S.htm">HopeRF HM-TRLR-S</a> connected via UART to either Raspberry Pi or OpenWRT (cons; Expensive!)<br><br>
  <img src="http://www.hoperf.com/upload/rf/HM-TRLR-HFS.jpg" alt="HM-TRLR-S" align="left"> 
 
