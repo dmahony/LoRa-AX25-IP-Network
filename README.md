@@ -27,6 +27,7 @@ Inair9b (sx1276) connected to Raspberry Pi via SPI using <a href="https://github
 Both of these modules communicate via UART so I'm guessing it would be much easier to send data.
 
 <a href="http://www.anarduino.com/details.jsp?pid=139">HopeRF HM-TRP</a> connected via UART to either Raspberry Pi or OpenWRT (cons; not LoRa! significantly less range)
+
  <img src="http://www.anarduino.com/images/hm-trp100.png" alt="HM-TRP"> 
 
 
