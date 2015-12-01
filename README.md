@@ -53,10 +53,10 @@ If anyone would like to contribute or ask any questions please don't hesitate to
 
 <b>Possible Github repos to use</b><br> 
 <a href="https://github.com/mayeranalytics/pySX127x">pySX127x </a><br>
-<a href="https://github.com/PaulStoffregen/RadioHead">RadioHead Packet Library</a>
-<a href="https://github.com/hathcox/ToorChat">Toorchat</a>
-<a href="https://github.com/Lora-net">Lora-net</a>
-<a href="https://github.com/PiInTheSky/lora-gateway">PiInTheSky Lora-gateway</a>
-<a href="https://github.com/telecombretagne/LoRaFABIAN">LoRaFABIAN</a>
-<a href="https://github.com/TheThingsNetwork/">TheThingsNetwork</a>
+<a href="https://github.com/PaulStoffregen/RadioHead">RadioHead Packet Library</a><br>
+<a href="https://github.com/hathcox/ToorChat">Toorchat</a><br>
+<a href="https://github.com/Lora-net">Lora-net</a><br>
+<a href="https://github.com/PiInTheSky/lora-gateway">PiInTheSky Lora-gateway</a><br>
+<a href="https://github.com/telecombretagne/LoRaFABIAN">LoRaFABIAN</a><br>
+<a href="https://github.com/TheThingsNetwork/">TheThingsNetwork</a><br>
 
