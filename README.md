@@ -42,7 +42,7 @@ Both of these modules communicate via UART so I'm guessing it would be much easi
 Any of previously mentioned modules connected to the cheap Raspberry Pi Zero via either SPI or UART
 
 
-Inspirations: 
+Inspirations:<br> 
 <a href=" http://ossmann.blogspot.com.au/2012/10/the-toorcon-14-badge.html">Toorcon 14 badge hacked into RF chat system in 2 days!</a><br>
 
 <a href="http://www.gotenna.com/">GoTenna device, similar idea to what I want but uses the Multi Use Radio System (MURS) and is expensive.</a><br>
