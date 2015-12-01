@@ -11,7 +11,7 @@ Eg:
 upload image to webpage > webpage converts to base64 and breaks it into max payload length chunks and adds flag to indicate file type > sends data via LoRa > other LoRa recieves text with flag telling to convert base64 to image > displays in chat box
 
 Current prototypes are using:
-Inair9b (sx1276) with an Arduino Nano via SPI and connects to A5-V11 OpenWRT router via usb serial adapter using RadioHead Packet Library https://github.com/PaulStoffregen/RadioHead
+Inair9b (sx1276) with an Arduino Nano via SPI and connects to A5-V11 OpenWRT router via usb serial adapter using  <a href="https://github.com/PaulStoffregen/RadioHead">RadioHead Packet Library</a>
 
 
 
