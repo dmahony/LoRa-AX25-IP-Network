@@ -32,7 +32,7 @@ Both of these modules communicate via UART so I'm guessing it would be much easi
 <br>
 <br>
 <br>
-<a href="http://www.hoperf.com/rf/data_link_module/HM-TRLR-S.htm">HopeRF HM-TRLR-S</a> connected via UART to either Raspberry Pi or OpenWRT (cons; Expensive!)<br><br>
+<br><a href="http://www.hoperf.com/rf/data_link_module/HM-TRLR-S.htm">HopeRF HM-TRLR-S</a> connected via UART to either Raspberry Pi or OpenWRT (cons; Expensive!)<br><br>
  <img src="http://www.hoperf.com/upload/rf/HM-TRLR-HFS.jpg" alt="HM-TRLR-S" align="left"> 
 
 
