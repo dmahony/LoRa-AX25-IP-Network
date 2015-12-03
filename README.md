@@ -3,7 +3,7 @@ Using cheap LoRa wireless modules to chat over long distances.
 
 This is a work in progress project to try and get LoRa wireless modules to chat to each other.
 
-here is an example of how I would like it to work:
+Here is an example of how I would like it to work:
 
 LoRa device connects to either a Raspberry Pi or OpenWRT router and users can connect to webpage to send and recieve text messages with encryption. Perhaps sending different types of files could be viable by converting the files to text and prepending them with a certain flag so the receiver knows how to decode it.
 
