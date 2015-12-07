@@ -1,0 +1,39 @@
+from SX127x.LoRa import *
+from SX127x.board_config import BOARD
+import array
+import hexdump
+
+
+def handle_input(input):
+    ary = array.array('B', input)
+    print[(hexdump.dump(ary, sep=" , 0x"))]
+    lora.write_payload(ary.tolist())
+
+#def chop_up_iter(input):
+#    while True:
+#        payload = input[:MAX_LEN]
+#        input = input[MAX_LEN:]
+#        if payload:
+#            yield payload
+#        else: break
+
+BOARD.setup()
+
+lora = LoRa()
+lora.set_mode(MODE.STDBY)
+lora.set_payload_length(100)
+input=raw_input('Enter a message >>\n')
+#input=raw_input("Enter your message")
+handle_input(input)
+#while True:
+#    try:
+#        input=raw_input()
+#    except EOFError:
+#        break
+#    handle_input(input)
+#lora.write_payload([hexdump.dump(ary. sep=" , 0x"]))
+#lora.write_payload(input)
+#lora.write_payload[(hexdump.dump(ary, sep=" , 0x"))]
+lora.set_mode(MODE.TX)
+
+BOARD.teardown()
