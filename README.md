@@ -1,11 +1,12 @@
 # Lora-Chat-Device
+
 Using cheap LoRa wireless modules to chat over long distances.
 
 This is a work in progress project to try and get LoRa wireless modules to chat to each other.
 
 Here is an example of how I would like it to work:
 
-LoRa device connects to either a Raspberry Pi or OpenWRT router and users can connect to webpage to send and recieve text messages with encryption. Perhaps sending different types of files could be viable by converting the files to text and prepending them with a certain flag so the receiver knows how to decode it.
+LoRa device connects to a Raspberry Pi access point and users can use the webpage to send and recieve text messages with encryption. Perhaps sending different types of files could be viable by converting the files to text and prepending them with a certain flag so the receiver knows how to decode it.
 
 Eg: 
 upload image to webpage > webpage converts to hex and breaks it into max payload length chunks and adds flag to indicate file type > sends data via LoRa > other LoRa recieves text with flag telling to convert hex to image > displays in chat box
@@ -58,3 +59,4 @@ If anyone would like to contribute or ask any questions please don't hesitate to
 Other Information.<br>
 LoRa Introduction <a href="http://www.instructables.com/id/Introducing-LoRa-/">LoRa Introduction</a><br>
 SX1276/7/8 Datasheet <a href="http://www.semtech.com/images/datasheet/sx1276_77_78_79.pdf">Datasheet</a><br>
+InAir9b product page <a href="http://modtronix.com/inair9b.html">InAir9b</a><br>
