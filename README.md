@@ -25,7 +25,7 @@ Inair9b (sx1276) connected to Raspberry Pi via SPI using <a href="https://github
 <b>Settings to use</b>
 
  <img src="http://i.imgur.com/bcRODsF.png" alt="LoRa-Speed-Settings">
-To get maximum range I would use: 
+To get maximum range I would use: Bandwidth 10.4kHz Spreading Factor 12 Coding rate 4/5 Frequency Reference TCXO which would give me a bandwidth of 24bps.It would be too low for anything other than text. Testing pending.
 
 
 
