@@ -32,7 +32,7 @@ Inair9b (sx1276) with an Arduino Nano via SPI and connects to A5-V11 OpenWRT rou
 <b>Settings to use</b>
 
  <img src="http://i.imgur.com/bcRODsF.png" alt="LoRa-Speed-Settings"><br>
-To get maximum range I would use: Bandwidth 10.4kHz Spreading Factor 12 Coding rate 4/5 Frequency Reference TCXO which would give me a bandwidth of 24bps.It would be too low for anything other than text. Testing pending.
+To get maximum range I would use: Bandwidth 10.4kHz Spreading Factor 12 Coding rate 4/5 Frequency Reference TCXO which would give me a bandwidth of 24bps.It would be too low for anything other than text. Tests pending.
 
 
 <b>Inspirations:</b><br> 
