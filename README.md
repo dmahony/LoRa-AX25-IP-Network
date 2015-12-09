@@ -12,12 +12,15 @@ upload image to webpage > webpage converts to hex and breaks it into max payload
 
 <b>Current prototypes are using:</b>
 
+Inair9b (sx1276) connected to Raspberry Pi via SPI using <a href="https://github.com/mayeranalytics/pySX127x">pySX127x </a>
+
+Previous prototype:
 Inair9b (sx1276) with an Arduino Nano via SPI and connects to A5-V11 OpenWRT router via usb serial adapter using  <a href="https://github.com/PaulStoffregen/RadioHead">RadioHead Packet Library</a>
 
 <img src="http://imgur.com/o91j5aj.jpg" alt="Inair9b-arduino-nano">
 <br>(no OpenWRT router attached in picture)</br>
 
-Inair9b (sx1276) connected to Raspberry Pi via SPI using <a href="https://github.com/mayeranalytics/pySX127x">pySX127x </a>
+
 
 
 
