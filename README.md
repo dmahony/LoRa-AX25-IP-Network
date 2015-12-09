@@ -16,6 +16,7 @@ Inair9b (sx1276) connected to Raspberry Pi via SPI using <a href="https://github
 
 <img src="http://i.imgur.com/SBA0ONi.jpg" alt="Inair9b-arduino-nano">
 <br>(sketchy Rpi2 protoype w/ PoE)</br>
+<br>will probably move on to using the Raspberry Pi zero once they become available.
 
 Previous prototype:
 Inair9b (sx1276) with an Arduino Nano via SPI and connects to A5-V11 OpenWRT router via usb serial adapter using  <a href="https://github.com/PaulStoffregen/RadioHead">RadioHead Packet Library</a>
@@ -30,12 +31,8 @@ Inair9b (sx1276) with an Arduino Nano via SPI and connects to A5-V11 OpenWRT rou
 
 <b>Settings to use</b>
 
- <img src="http://i.imgur.com/bcRODsF.png" alt="LoRa-Speed-Settings">
+ <img src="http://i.imgur.com/bcRODsF.png" alt="LoRa-Speed-Settings"><br>
 To get maximum range I would use: Bandwidth 10.4kHz Spreading Factor 12 Coding rate 4/5 Frequency Reference TCXO which would give me a bandwidth of 24bps.It would be too low for anything other than text. Testing pending.
-
-
-
-Any of previously mentioned modules connected to the cheap Raspberry Pi Zero via either SPI or UART
 
 
 <b>Inspirations:</b><br> 
@@ -58,3 +55,6 @@ If anyone would like to contribute or ask any questions please don't hesitate to
 <a href="https://github.com/telecombretagne/LoRaFABIAN">LoRaFABIAN</a><br>
 <a href="https://github.com/TheThingsNetwork/">TheThingsNetwork</a><br>
 
+Other Information.<br>
+LoRa Introduction <a href="http://www.instructables.com/id/Introducing-LoRa-/">LoRa Introduction</a><br>
+SX1276/7/8 Datasheet <a href="http://www.semtech.com/images/datasheet/sx1276_77_78_79.pdf">Datasheet</a><br>
