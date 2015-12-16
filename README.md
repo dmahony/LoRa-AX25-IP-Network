@@ -12,12 +12,12 @@ Eg:
 upload image to webpage > webpage converts to hex and breaks it into max payload length chunks and adds flag to indicate file type > sends data via LoRa > other LoRa recieves text with flag telling to convert hex to image > displays in chat box
 
 <b>Items needed to make / Cost:</b>
-Raspberry Pi Zero delivered to Australia $AUD13.57
-Inair9B with pins $AUD24.37
-Toshiba 16GB Class 10 microSDHC Memory Card $AUD5.00
-ABS DIY Plastic Electronic Project Box Enclosure Instrument 100x60x25mm AUD$1.67
-Breadboard wires AUD$1.18
-USB 150Mbps WiFi Wireless LAN Adapter Antenna for Raspberry Pi ralink rt5370 AUD$7.05 
+Raspberry Pi Zero delivered to Australia $AUD13.57<br>
+Inair9B with pins $AUD24.37<br>
+Toshiba 16GB Class 10 microSDHC Memory Card $AUD5.00<br>
+ABS DIY Plastic Electronic Project Box Enclosure Instrument 100x60x25mm AUD$1.67<br>
+Breadboard wires AUD$1.18<br>
+USB 150Mbps WiFi Wireless LAN Adapter Antenna for Raspberry Pi ralink rt5370 AUD$7.05<br>
 TOTAL: $AUD52.84
 
 
