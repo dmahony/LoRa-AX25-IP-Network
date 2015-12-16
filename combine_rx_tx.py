@@ -64,7 +64,7 @@ class LoRaRcvCont(LoRa):
         print("\non_FhssChangeChannel")
         print(self.get_irq_flags())
 
-    def handle_input(self):
+    def handle_input(self,input):
  	ary = array.array('B', input)
 	print[(hexdump.dump(ary, sep=" , 0x"))]
  	self.write_payload(ary.tolist())
@@ -84,7 +84,7 @@ class LoRaRcvCont(LoRa):
         self.set_mode(MODE.STDBY)
         self.set_payload_length(100)
         input=raw_input('Enter a message >>\n')
-        handle_input(input)
+        self.handle_input(input)
         self.set_mode(MODE.TX)
 
 
