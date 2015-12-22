@@ -8,8 +8,6 @@ Here is an example of how I would like it to work:
 
 LoRa device connects to a Raspberry Pi access point and users can use the webpage to send and recieve text messages with encryption. Perhaps sending different types of files could be viable by converting the files to text and prepending them with a certain flag so the receiver knows how to decode it.
 
-Eg: 
-upload image to webpage > webpage converts to hex and breaks it into max payload length chunks and adds flag to indicate file type > sends data via LoRa > other LoRa recieves text with flag telling to convert hex to image > displays in chat box
 <br>
 <img src="http://i.imgur.com/tfc3tMf.jpg" alt="LoRa-Chat interface alpha">
 <br>
