@@ -39,17 +39,6 @@ Inair9b (sx1276) connected to Raspberry Pi via SPI using <a href="https://github
 <br>(sketchy Rpi2 protoype w/ PoE)</br>
 <br>will probably move on to using the Raspberry Pi zero once they become available.
 
-Previous prototype:
-Inair9b (sx1276) with an Arduino Nano via SPI and connects to A5-V11 OpenWRT router via usb serial adapter using  <a href="https://github.com/PaulStoffregen/RadioHead">RadioHead Packet Library</a>
-
-<img src="http://imgur.com/o91j5aj.jpg" alt="Inair9b-arduino-nano">
-<br>(no OpenWRT router attached in picture)</br>
-
-
-
-
-
-
 <b>Settings to use</b>
 
  <img src="http://i.imgur.com/bcRODsF.png" alt="LoRa-Speed-Settings"><br>
