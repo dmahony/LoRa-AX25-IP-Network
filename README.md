@@ -22,12 +22,12 @@ TOTAL: $AUD52.84
 
 <b>Current prototype software:</b>
 
-PySX127x to interface the sx1276 with Raspberry Pi
-Butterfly Terminal to use the chat program from a web interface 
-Lighttpd to host the website
-startbootrap.com bare template
-hostapd to set up an access point on the Raspberry Pi
-isc-dhcp-server for serving DHCP to Wifi hotspot
+PySX127x to interface the sx1276 with Raspberry Pi<br>
+Butterfly Terminal to use the chat program from a web interface<br> 
+Lighttpd to host the website<br>
+startbootrap.com bare template<br>
+hostapd to set up an access point on the Raspberry Pi<br>
+isc-dhcp-server for serving DHCP to Wifi hotspot<br>
 
 <b>Current prototype hardware:</b>
 
