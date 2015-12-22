@@ -10,7 +10,9 @@ LoRa device connects to a Raspberry Pi access point and users can use the webpag
 
 Eg: 
 upload image to webpage > webpage converts to hex and breaks it into max payload length chunks and adds flag to indicate file type > sends data via LoRa > other LoRa recieves text with flag telling to convert hex to image > displays in chat box
-
+<br>
+  <a href="http://i.imgur.com/tfc3tMf.jpg">LoRa-Chat interface alpha </a>
+<br>
 <b>Items needed to make / Cost:</b><br><br>
 Raspberry Pi Zero delivered to Australia $AUD13.57<br>
 Inair9B with pins $AUD24.37<br>
