@@ -20,9 +20,16 @@ Breadboard wires AUD$1.18<br>
 USB 150Mbps WiFi Wireless LAN Adapter Antenna for Raspberry Pi ralink rt5370 AUD$7.05<br>
 TOTAL: $AUD52.84
 
+<b>Current prototype software:</b>
 
+PySX127x to interface the sx1276 with Raspberry Pi
+Butterfly Terminal to use the chat program from a web interface 
+Lighttpd to host the website
+startbootrap.com bare template
+hostapd to set up an access point on the Raspberry Pi
+isc-dhcp-server for serving DHCP to Wifi hotspot
 
-<b>Current prototypes are using:</b>
+<b>Current prototype hardware:</b>
 
 Inair9b (sx1276) connected to Raspberry Pi via SPI using <a href="https://github.com/mayeranalytics/pySX127x">pySX127x </a>
 
