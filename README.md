@@ -2,7 +2,7 @@
 
 Using cheap LoRa wireless modules to chat over long distances.
 
-This is a work in progress project to try and get LoRa wireless modules to chat to each other.
+This is a work in progress project to create a cheap, long range chat device for private, decentralized communication.
 
 Here is an example of how I would like it to work:
 
