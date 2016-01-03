@@ -45,13 +45,11 @@ Unfortualtely TCXO cannot be used on the Inair9B which would give much better re
 
 <b>Inspirations:</b><br> 
 <a href="http://ossmann.blogspot.com.au/2012/10/the-toorcon-14-badge.html">Toorcon 14 badge hacked into RF chat system in 2 days!</a><br>
-Toorchat <a href="https://github.com/hathcox/ToorChat">Toorchat github</a><br>
-
+<a href="https://github.com/hathcox/ToorChat">Toorchat github</a><br>
 <a href="https://youtu.be/pkTlTCUeec0?t=622">Toorchat Hak5 demo with YARD stick one device</a><br>
-
 <a href="http://www.gotenna.com/">GoTenna device, similar idea to what I want but uses the Multi Use Radio System (MURS) and is expensive.</a><br>
 
-Contact.<br>
+<b>Contact</b><br>
 If anyone would like to contribute or ask any questions please don't hesitate to contact me on danielwmahony@gmail.com
 
 <b>Possible Github repos to use</b><br> 
@@ -63,7 +61,7 @@ If anyone would like to contribute or ask any questions please don't hesitate to
 <a href="https://github.com/telecombretagne/LoRaFABIAN">LoRaFABIAN</a><br>
 <a href="https://github.com/TheThingsNetwork/">TheThingsNetwork</a><br>
 
-Other Information.<br>
-LoRa Introduction <a href="http://www.instructables.com/id/Introducing-LoRa-/">LoRa Introduction</a><br>
-SX1276/7/8 Datasheet <a href="http://www.semtech.com/images/datasheet/sx1276_77_78_79.pdf">Datasheet</a><br>
-InAir9b product page <a href="http://modtronix.com/inair9b.html">InAir9b</a><br>
+<b>Other Information</b><br>
+<a href="http://www.instructables.com/id/Introducing-LoRa-/?ALLSTEPS">Introducing LoRa™, by manuka </a><br>
+<a href="http://www.semtech.com/images/datasheet/sx1276_77_78_79.pdf">SX1276/7/8 Datasheet</a><br>
+<a href="http://modtronix.com/inair9b.html">InAir9b product page</a><br>
