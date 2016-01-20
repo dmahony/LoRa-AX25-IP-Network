@@ -65,3 +65,6 @@ If anyone would like to contribute or ask any questions please don't hesitate to
 <a href="http://www.instructables.com/id/Introducing-LoRa-/?ALLSTEPS">Introducing LoRa™, by manuka </a><br>
 <a href="http://www.semtech.com/images/datasheet/sx1276_77_78_79.pdf">SX1276/7/8 Datasheet</a><br>
 <a href="http://modtronix.com/inair9b.html">InAir9b product page</a><br>
+<a href="http://www.digi.com/products/xbee-rf-solutions/modems/digi-xlr-pro">Long-Range 900 MHz Industrial Radio, 1 to 100 miles @ up to 3Mbps)</a>
+<a href="http://www.airspayce.com/mikem/arduino/RadioHead/">RadioHead Packet Radio library for embedded microprocessors</a>
+<a href="https://revspace.nl/DecodingLora">DecodingLora; using RTL-SDR/software radio to decode LoRa</a>
