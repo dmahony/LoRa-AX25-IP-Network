@@ -4,24 +4,22 @@ Using cheap LoRa wireless modules to chat over long distances.
 
 This is a work in progress project to create a cheap, long range chat device for private, decentralized communication.
 
-Here is an example of how I would like it to work:
-
-LoRa device connects to a Raspberry Pi access point and users can use the webpage to send and recieve text messages with encryption. Perhaps sending different types of files could be viable by converting the files to text and prepending them with a certain flag so the receiver knows how to decode it.
+How It Works:
+User connects to a Raspberry Pi hotspot that automatically redirects to a web page that hosts the chat application.
 
 <br>
 <img src="http://i.imgur.com/tfc3tMf.jpg" alt="LoRa-Chat interface alpha">
 <br>
-<b>Items needed to make / Cost:</b><br><br>
-Raspberry Pi Zero delivered to Australia $AUD13.57<br>
-Inair9B with pins $AUD24.37<br>
-Toshiba 16GB Class 10 microSDHC Memory Card $AUD5.00<br>
-ABS DIY Plastic Electronic Project Box Enclosure Instrument 100x60x25mm AUD$1.67<br>
-Breadboard wires AUD$1.18<br>
-USB 150Mbps WiFi Wireless LAN Adapter Antenna for Raspberry Pi ralink rt5370 AUD$7.05<br>
-TOTAL: $AUD52.84
 
+<b>Hardware:</b>
+Raspberry Pi (any model)
+Inair9b Module (currently waiting for testing on RFM95)
+USB Wifi adapter that supports Hotspot
+Wires to connect module to Raspberry Pi
+<br>
+<br>
 <b>Current prototype software:</b>
-
+<br>
 PySX127x to interface the sx1276 with Raspberry Pi<br>
 Butterfly Terminal to use the chat program from a web interface<br> 
 Lighttpd to host the website<br>
@@ -34,15 +32,23 @@ isc-dhcp-server for serving DHCP to Wifi hotspot<br>
 Inair9b (sx1276) connected to Raspberry Pi via SPI using <a href="https://github.com/mayeranalytics/pySX127x">pySX127x </a>
 
 <img src="http://i.imgur.com/SBA0ONi.jpg" alt="Inair9b-arduino-nano">
-<br>(sketchy Rpi2 protoype w/ PoE)</br>
-<br>will probably move on to using the Raspberry Pi zero once they become available.
+<br>(early Rpi2 protoype w/ PoE)</br>
 
-<b>Settings to use</b>
+<b>Planned Features:</b>
 
- <img src="http://i.imgur.com/bcRODsF.png" alt="LoRa-Speed-Settings"><br>
-To get maximum range I would use: Bandwidth 62.5kHz Spreading Factor 12 Coding rate 4/5 Frequency Reference XTAL which would give me a bandwidth of 146bps.It would be too low for anything other than text. Tests pending.
-Unfortualtely TCXO cannot be used on the Inair9B which would give much better reception but would lower the bitrate to 24bps.
+-Send GPS coordinates and view on offline Open Street Map, measure    distance etc
 
+-Codec2/FreeDV voice chat
+https://github.com/freedv/codec2
+
+-Narrow Band Television Video chat
+https://en.wikipedia.org/wiki/Narrow-bandwidth_television
+https://www.youtube.com/watch?v=1ShYefsbnAE
+
+-send any file (sane limits apply)
+
+-Encrytion for every feature
+<br>
 <b>Inspirations:</b><br> 
 <a href="http://ossmann.blogspot.com.au/2012/10/the-toorcon-14-badge.html">Toorcon 14 badge hacked into RF chat system in 2 days!</a><br>
 <a href="https://github.com/hathcox/ToorChat">Toorchat github</a><br>
