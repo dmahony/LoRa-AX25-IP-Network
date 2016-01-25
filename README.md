@@ -47,7 +47,7 @@ https://www.youtube.com/watch?v=1ShYefsbnAE
 
 -send any file (sane limits apply)
 
--Encrytion for every feature
+-Encrytion for every feature<br>
 <br>
 <b>Inspirations:</b><br> 
 <a href="http://ossmann.blogspot.com.au/2012/10/the-toorcon-14-badge.html">Toorcon 14 badge hacked into RF chat system in 2 days!</a><br>
