@@ -4,8 +4,11 @@ Using cheap LoRa wireless modules to chat over long distances.
 
 This is a work in progress project to create a cheap, long range chat device for private, decentralized communication.
 
-How It Works:
-User connects to a Raspberry Pi hotspot that automatically redirects to a web page that hosts the chat application.
+<b>How It Works:</b>
+User connects to a Raspberry Pi hotspot that automatically redirects to a web page that hosts the chat application. Users can then send data over long distances. 
+
+<b>Range:</b>
+People have claimed huge distances with LoRa modules, some say in the dozens of Kilometers others say over 100 Kilometers (High Altitude Balloons) I'll report back as soon as I've done my own range tests.
 
 <br>
 <img src="http://i.imgur.com/tfc3tMf.jpg" alt="LoRa-Chat interface alpha">
