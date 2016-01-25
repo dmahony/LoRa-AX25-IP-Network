@@ -12,10 +12,10 @@ User connects to a Raspberry Pi hotspot that automatically redirects to a web pa
 <br>
 
 <b>Hardware:</b>
--Raspberry Pi (any model)
--Inair9b Module (currently waiting for testing on RFM95)
--USB Wifi adapter that supports Hotspot
--Wires to connect module to Raspberry Pi
+-Raspberry Pi (any model)<br>
+-Inair9b Module (currently waiting for testing on RFM95)<br>
+-USB Wifi adapter that supports Hotspot<br>
+-Wires to connect module to Raspberry Pi<br>
 <br>
 <br>
 <b>Current prototype software:</b>
