@@ -12,20 +12,20 @@ User connects to a Raspberry Pi hotspot that automatically redirects to a web pa
 <br>
 
 <b>Hardware:</b>
-Raspberry Pi (any model)
-Inair9b Module (currently waiting for testing on RFM95)
-USB Wifi adapter that supports Hotspot
-Wires to connect module to Raspberry Pi
+-Raspberry Pi (any model)
+-Inair9b Module (currently waiting for testing on RFM95)
+-USB Wifi adapter that supports Hotspot
+-Wires to connect module to Raspberry Pi
 <br>
 <br>
 <b>Current prototype software:</b>
 <br>
-PySX127x to interface the sx1276 with Raspberry Pi<br>
-Butterfly Terminal to use the chat program from a web interface<br> 
-Lighttpd to host the website<br>
-startbootrap.com bare template<br>
-hostapd to set up an access point on the Raspberry Pi<br>
-isc-dhcp-server for serving DHCP to Wifi hotspot<br>
+-PySX127x to interface the sx1276 with Raspberry Pi<br>
+-Butterfly Terminal to use the chat program from a web interface<br> 
+-Lighttpd to host the website<br>
+-startbootrap.com bare template<br>
+-hostapd to set up an access point on the Raspberry Pi<br>
+-isc-dhcp-server for serving DHCP to Wifi hotspot<br>
 
 <b>Current prototype hardware:</b>
 
