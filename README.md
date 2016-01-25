@@ -45,8 +45,8 @@ Inair9b (sx1276) connected to Raspberry Pi via SPI using <a href="https://github
 https://github.com/freedv/codec2
 
 -Narrow Band Television Video chat
-https://en.wikipedia.org/wiki/Narrow-bandwidth_television
-https://www.youtube.com/watch?v=1ShYefsbnAE
+https://en.wikipedia.org/wiki/Narrow-bandwidth_television<br>
+https://www.youtube.com/watch?v=1ShYefsbnAE<br>
 
 -send any file (sane limits apply)
 
