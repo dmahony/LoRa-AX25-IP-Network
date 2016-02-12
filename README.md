@@ -11,7 +11,7 @@ User connects to a Raspberry Pi hotspot that automatically redirects to a web pa
 <b>Range:</b>
 People have claimed huge distances with LoRa modules, some say in the dozens of Kilometers others say over 100 Kilometers (High Altitude Balloons) I'll report back as soon as I've done my own range tests.
 
-My Tests:
+<b>My Tests:</b>
 <br>
 <img src="http://i.imgur.com/tjdWeO5.png" alt="LoRa-Chat-coolum-peregian-test"> 
 <br>
@@ -25,9 +25,9 @@ My Tests:
 <b>Hardware:</b>
 -Raspberry Pi (any model)<br>
 -Inair9b Module or HopeRF RFM95<br>
--USB Wifi adapter that supports Hotspot or ESP8266<br>
+-USB Wifi adapter that supports Hotspot<br>
 -Wires to connect module to Raspberry Pi<br>
-<br>
+-alternatively, instead of using the wifi adapter you could use an esp8266, Bluetooth module, UART or any other method you prefer<br>
 <br>
 <b>Current prototype software:</b>
 <br>
