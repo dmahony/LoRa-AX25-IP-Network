@@ -59,8 +59,8 @@ https://en.wikipedia.org/wiki/Narrow-bandwidth_television<br>
 https://www.youtube.com/watch?v=1ShYefsbnAE<br>
 
 -send any file (sane limits apply)
-
 -Encrytion for every feature<br>
+-TCP/IP
 <br>
 <b>Inspirations:</b><br> 
 <a href="http://ossmann.blogspot.com.au/2012/10/the-toorcon-14-badge.html">Toorcon 14 badge hacked into RF chat system in 2 days!</a><br>
