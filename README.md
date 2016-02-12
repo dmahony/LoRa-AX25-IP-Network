@@ -1,14 +1,17 @@
-# Lora-Chat-Device
+# Lora-Chat-Device (working title)
 
 Using cheap LoRa wireless modules to chat over long distances.
 
 This is a work in progress project to create a cheap, long range chat device for private, decentralized communication.
+I'm only a begginer programmer so if you would like to help out please get in touch!<br>
 
 <b>How It Works:</b>
-User connects to a Raspberry Pi hotspot that automatically redirects to a web page that hosts the chat application. Users can then send data over long distances. 
+User connects to a Raspberry Pi hotspot that automatically redirects to a web page that hosts the chat application. Users can then send data over long distances without the use of telephone networks or the internet.
 
 <b>Range:</b>
 People have claimed huge distances with LoRa modules, some say in the dozens of Kilometers others say over 100 Kilometers (High Altitude Balloons) I'll report back as soon as I've done my own range tests.
+
+My Tests:
 
 <br>
 <img src="http://i.imgur.com/tfc3tMf.jpg" alt="LoRa-Chat interface alpha">
@@ -16,8 +19,8 @@ People have claimed huge distances with LoRa modules, some say in the dozens of 
 
 <b>Hardware:</b>
 -Raspberry Pi (any model)<br>
--Inair9b Module (currently waiting for testing on RFM95)<br>
--USB Wifi adapter that supports Hotspot<br>
+-Inair9b Module or HopeRF RFM95<br>
+-USB Wifi adapter that supports Hotspot or ESP8266<br>
 -Wires to connect module to Raspberry Pi<br>
 <br>
 <br>
@@ -34,10 +37,12 @@ People have claimed huge distances with LoRa modules, some say in the dozens of 
 
 Inair9b (sx1276) connected to Raspberry Pi via SPI using <a href="https://github.com/mayeranalytics/pySX127x">pySX127x </a>
 
-<img src="http://i.imgur.com/SBA0ONi.jpg" alt="Inair9b-arduino-nano">
-<br>(early Rpi2 protoype w/ PoE)</br>
+<img src="http://i.imgur.com/QL1OXfd.jpg" alt="pi2-lora-chat">
+<br>(early Rpi2 protoype)</br>
 
-<b>Planned Features:</b>
+HopeRF RFM95 connected to Pi Zero via SPI using <a href="https://github.com/mayeranalytics/pySX127x">pySX127x </a>
+
+<b>Hopeful fututre features:</b>
 
 -Send GPS coordinates and view on offline Open Street Map, measure    distance etc
 
@@ -74,6 +79,5 @@ If anyone would like to contribute or ask any questions please don't hesitate to
 <a href="http://www.instructables.com/id/Introducing-LoRa-/?ALLSTEPS">Introducing LoRa™, by manuka </a><br>
 <a href="http://www.semtech.com/images/datasheet/sx1276_77_78_79.pdf">SX1276/7/8 Datasheet</a><br>
 <a href="http://modtronix.com/inair9b.html">InAir9b product page</a><br>
-<a href="http://www.digi.com/products/xbee-rf-solutions/modems/digi-xlr-pro">Long-Range 900 MHz Industrial Radio, 1 to 100 miles @ up to 3Mbps)</a>
-<a href="http://www.airspayce.com/mikem/arduino/RadioHead/">RadioHead Packet Radio library for embedded microprocessors</a>
+<a href="http://www.airspayce.com/mikem/arduino/RadioHead/">RadioHead Packet Radio library for embedded microprocessors</a><br>
 <a href="https://revspace.nl/DecodingLora">DecodingLora; using RTL-SDR/software radio to decode LoRa</a>
