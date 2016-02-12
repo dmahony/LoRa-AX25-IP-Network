@@ -51,16 +51,15 @@ HopeRF RFM95 connected to Pi Zero via SPI using <a href="https://github.com/maye
 
 -Send GPS coordinates and view on offline Open Street Map, measure    distance etc
 
--Codec2/FreeDV voice chat
-https://github.com/freedv/codec2
-
--Narrow Band Television Video chat
+-Codec2/FreeDV voice chat<br>
+https://github.com/freedv/codec2<br>
+-Narrow Band Television Video chat<br>
 https://en.wikipedia.org/wiki/Narrow-bandwidth_television<br>
 https://www.youtube.com/watch?v=1ShYefsbnAE<br>
 
--send any file (sane limits apply)
+-send any file (sane limits apply)<br>
 -Encrytion for every feature<br>
--TCP/IP
+-TCP/IP<br>
 <br>
 <b>Inspirations:</b><br> 
 <a href="http://ossmann.blogspot.com.au/2012/10/the-toorcon-14-badge.html">Toorcon 14 badge hacked into RF chat system in 2 days!</a><br>
