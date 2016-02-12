@@ -12,9 +12,14 @@ User connects to a Raspberry Pi hotspot that automatically redirects to a web pa
 People have claimed huge distances with LoRa modules, some say in the dozens of Kilometers others say over 100 Kilometers (High Altitude Balloons) I'll report back as soon as I've done my own range tests.
 
 My Tests:
+<br>
+<img src="http://i.imgur.com/tjdWeO5.png" alt="LoRa-Chat-coolum-peregian-test"> 
+<br>
+8.35km Test. No dropped packets and a very good signal strength, I think it can go much further that this but it was getting late and I had to return home. Next test I'll try go closer to 20km.
+
 
 <br>
-<img src="http://i.imgur.com/tfc3tMf.jpg" alt="LoRa-Chat interface alpha" width="50%" height="50%"> 
+<img src="http://i.imgur.com/tfc3tMf.jpg" alt="LoRa-Chat interface alpha"> 
 <br>
 
 <b>Hardware:</b>
@@ -37,7 +42,7 @@ My Tests:
 
 Inair9b (sx1276) connected to Raspberry Pi via SPI using <a href="https://github.com/mayeranalytics/pySX127x">pySX127x </a>
 
-<img src="http://i.imgur.com/QL1OXfd.jpg" alt="pi2-lora-chat">
+<img src="http://i.imgur.com/9Gtv727.jpg" alt="pi2-lora-chat">
 <br>(early Rpi2 protoype)</br>
 
 HopeRF RFM95 connected to Pi Zero via SPI using <a href="https://github.com/mayeranalytics/pySX127x">pySX127x </a>
