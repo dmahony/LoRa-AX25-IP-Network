@@ -14,7 +14,7 @@ People have claimed huge distances with LoRa modules, some say in the dozens of 
 My Tests:
 
 <br>
-<img src="http://i.imgur.com/tfc3tMf.jpg" alt="LoRa-Chat interface alpha">
+<img src="http://i.imgur.com/tfc3tMf.jpg" alt="LoRa-Chat interface alpha" width="50%" height="50%"> 
 <br>
 
 <b>Hardware:</b>
