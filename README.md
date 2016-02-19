@@ -47,9 +47,9 @@ Inair9b (sx1276) connected to Raspberry Pi via SPI using <a href="https://github
 
 HopeRF RFM95 connected to Pi Zero via SPI using <a href="https://github.com/mayeranalytics/pySX127x">pySX127x </a>
 
-<b>Hopeful fututre features:</b>
+<b>Hopeful future features:</b>
 
--Send GPS coordinates and view on offline Open Street Map, measure    distance etc
+-Send GPS coordinates and view on offline Open Street Map, measure distance etc
 
 -Codec2/FreeDV voice chat<br>
 https://github.com/freedv/codec2<br>
