@@ -1,7 +1,7 @@
 # Lora-Chat-Device (working title)
 
-<p>Using cheap LoRa wireless modules to chat over long distances.
-
+<p>Using cheap LoRa wireless modules to chat over long distances.<br><br>
+Raspberry Pi - Arduino - LoRa - AX25 - XMPP - OTR<br><br>
 This is a work in progress project to create a cheap, long range chat device for private, decentralized communication. This project is completely open source and contributions are very welcome!
 
 I'm only a begginer programmer but with a bit of help I think we can create something amazing.</p>
