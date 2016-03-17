@@ -1,17 +1,17 @@
 # Lora-Chat-Device (working title)
 
-Using cheap LoRa wireless modules to chat over long distances.
+<p>Using cheap LoRa wireless modules to chat over long distances.
 
 This is a work in progress project to create a cheap, long range chat device for private, decentralized communication. This project is completely open source and contributions are very welcome!
 
-I'm only a begginer programmer but with a bit of help I think we can create something amazing.<br>
+I'm only a begginer programmer but with a bit of help I think we can create something amazing.</p>
 
 <b>How It Works:</b>
 User connects to a Raspberry Pi hotspot that hosts an XMPP chat server that you can connect to using almost any XMPP client. Users can then send data over long distances without the use of telephone networks or the internet.
 
-I recently discovered the fantastic Arduino-Kiss software by Folkert van Heusden (Github user: flok99)
+<p>I recently discovered the fantastic Arduino-Kiss software by Folkert van Heusden (Github user: flok99)
 Arduino-kiss allows for an Arduino and HopeRF module to be used as a KISS TNC https://en.wikipedia.org/wiki/KISS_%28TNC%29
-The AX25 protocol allows us to do so many things like Addressing, routing and we can even use TCP/IP.
+The AX25 protocol allows us to do so many things like Addressing, routing and we can even use TCP/IP.</p>
 TCP/IP over LoRa Video: https://youtu.be/Z9LDWIDyYq8
 
 This software uses the Radiohead Packet Library so any compatible wireless tranceiver should work (with a little bit of modification)
