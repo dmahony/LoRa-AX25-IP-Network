@@ -41,7 +41,7 @@ People have claimed huge distances with LoRa modules, some say in the dozens of 
 8.35km Test. No dropped packets and a very good signal strength, I think it can go much further that this but it was getting late and I had to return home. Next test I'll try go closer to 20km.
 <br>
 <br>
-<b>Hardware:</b>
+<b>Hardware:</b><br>
 -Raspberry Pi (any model)<br>
 -Inair9b Module or HopeRF RFM95<br>
 -Arduino UNO (awaiting testing on something more powerful<br>
