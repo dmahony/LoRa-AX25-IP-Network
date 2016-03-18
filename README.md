@@ -23,7 +23,7 @@ http://www.airspayce.com/mikem/arduino/RadioHead/
 <br>
 <p>An Arduino with ATMega328P only has 2048 bytes of RAM and the Arduino-KISS software allocates 3 * maxPacketSize. so for LoRa devices that is 762 bytes of ram which means some better hardware should improve the performance, I'm currently waiting on a few Moteino Megas and Arduino Dues to see if I can get it running fast enough for a BBS or viewing web pages.</p>
 <br>
-Example BBS:<br>
+Example BBS:
 <img src="https://defacto2.net/file/view/ab31a4" alt="example-bbs">
 
 <br>
@@ -39,12 +39,8 @@ People have claimed huge distances with LoRa modules, some say in the dozens of 
 <img src="http://i.imgur.com/tjdWeO5.png" alt="LoRa-Chat-coolum-peregian-test"> 
 <br>
 8.35km Test. No dropped packets and a very good signal strength, I think it can go much further that this but it was getting late and I had to return home. Next test I'll try go closer to 20km.
-
-
 <br>
-<img src="http://i.imgur.com/tfc3tMf.jpg" alt="LoRa-Chat interface alpha"> 
 <br>
-
 <b>Hardware:</b>
 -Raspberry Pi (any model)<br>
 -Inair9b Module or HopeRF RFM95<br>
