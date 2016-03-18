@@ -55,34 +55,37 @@ People have claimed huge distances with LoRa modules, some say in the dozens of 
 <br>
 <b>Current prototype software:</b>
 <br>
--Arduino-KISS by  to interface the sx1276 with Raspberry Pi<br>
--Butterfly Terminal to use the chat program from a web interface<br> 
--Lighttpd to host the website<br>
--startbootrap.com bare template<br>
+<a href="https://github.com/flok99/arduino-kiss
+">Arduino-KISS by Folkert van Heusden (flok99)</a>
+<br>
+-<br>
+
+<a href="https://github.com/jgoerzen/ax25xmpp
+">ax25xmpp by John Goerzen (jgoerzen)</a>
+<br>
 -hostapd to set up an access point on the Raspberry Pi<br>
 -isc-dhcp-server for serving DHCP to Wifi hotspot<br>
--Xabber XMPP for Android
-
+-Prosody XMPP Server<br>
+-Xabber XMPP for Android / Pidgin XMPP for Windows/Linux (if you know a good client for iOS or any other platform let me know!
+<br>
+<br>
 <b>Current prototype hardware:</b>
 
 Inair9b (sx1276) connected to Arduino via SPI using <a href="https://github.com/flok99/arduino-kiss">Arduino-KISS </a>
-
-<img src="http://i.imgur.com/9Gtv727.jpg" alt="pi2-lora-chat">
-<br>(early Rpi2 protoype)</br>
-
-HopeRF RFM95 connected to Pi Zero via SPI using <a href="https://github.com/mayeranalytics/pySX127x">pySX127x </a>
+<br>
+HopeRF RFM95 connected to Pi Zero via SPI using <a href="https://github.com/flok99/arduino-kiss">Arduino-KISS </a>
 
 <b>Hopeful future features:</b>
 
--Send GPS coordinates and view on offline Open Street Map, measure distance etc
-
+-Fully working BBS<br>
+-Send GPS coordinates and view on offline Open Street Map, measure distance etc<br>
 -Codec2/FreeDV voice chat<br>
 https://github.com/freedv/codec2<br>
 -Narrow Band Television Video chat<br>
 https://en.wikipedia.org/wiki/Narrow-bandwidth_television<br>
 https://www.youtube.com/watch?v=1ShYefsbnAE<br>
 
--send any file (sane limits apply)<br>
+-send small files, maybe create a simple web page based Image/Sound/whatever converter<br>
 -Encrytion for every feature<br>
 -TCP/IP<br>
 <br>
