@@ -1,11 +1,12 @@
 # Lora-Chat-Device (working title)
 
-<p>Using cheap LoRa wireless modules to chat over long distances.<br><br>
+<p>Using cheap wireless modules to chat over long distances using AX25 and XMPP in the unlicenced ISM band.<br>
+<br>
 Raspberry Pi - Arduino - LoRa - AX25 - XMPP - OTR<br><br>
 This is a work in progress project to create a cheap, long range chat device for private, decentralized communication. This project is completely open source and contributions are very welcome!</p>
 <br>
 <b>How It Works:</b><br>
-User connects to a Raspberry Pi hotspot that hosts an XMPP chat server that you can connect to using almost any XMPP client. Users can then send data over long distances without the use of telephone networks or the internet.
+User connects to a Raspberry Pi hotspot that hosts an XMPP chat server that you can connect to using almost any XMPP client. Users can then send data over long distances without the use of telephone networks or the internet via cheap RF modules.<br>
 
 <p>I recently discovered the fantastic Arduino-Kiss software by Folkert van Heusden (Github user: flok99)
 Arduino-kiss allows for an Arduino and HopeRF module to be used as a <a href="https://en.wikipedia.org/wiki/KISS_%28TNC%29">KISS TNC </a>
@@ -24,7 +25,7 @@ http://www.airspayce.com/mikem/arduino/RadioHead/
 <p>An Arduino with ATMega328P only has 2048 bytes of RAM and the Arduino-KISS software allocates 3 * maxPacketSize. so for LoRa devices that is 762 bytes of ram which means some better hardware should improve the performance, I'm currently waiting on a few Moteino Megas and Arduino Dues to see if I can get it running fast enough for a BBS or viewing web pages.</p>
 <br>
 Example BBS:<br>
-<img src="https://defacto2.net/file/view/ab31a4" alt="example-bbs">
+<img src="http://www.endtimeprophecy.net/Blog/wp-content/uploads/2015/03/BBS-Main-Menu.png" alt="example-bbs">
 
 <br>
 <p>I also have a few Maple Mini clones that are supposedly compatible with the RadioHead Packet Library that Arduino-KISS uses but I havent been able to get it working, if you know anything about Radiohead+Maple Mini please get in touch!
