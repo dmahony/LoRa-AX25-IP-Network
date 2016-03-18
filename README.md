@@ -49,27 +49,22 @@ People have claimed huge distances with LoRa modules, some say in the dozens of 
 -Wires to connect module to Arduino / Pi<br>
 -alternatively, instead of using the wifi adapter you could use an esp8266, Bluetooth module, UART or any other method you prefer<br>
 <br>
-<b>Current prototype software:</b>
-<br>
+<b>Current prototype software:</b> <br>
 <a href="https://github.com/flok99/arduino-kiss
-">Arduino-KISS by Folkert van Heusden (flok99)</a>
-<br>
--<br>
-
+">Arduino-KISS by Folkert van Heusden (flok99)</a><br>
 <a href="https://github.com/jgoerzen/ax25xmpp
-">ax25xmpp by John Goerzen (jgoerzen)</a>
-<br>
+">ax25xmpp by John Goerzen (jgoerzen)</a><br>
 -hostapd to set up an access point on the Raspberry Pi<br>
 -isc-dhcp-server for serving DHCP to Wifi hotspot<br>
 -Prosody XMPP Server<br>
 -Xabber XMPP for Android / Pidgin XMPP for Windows/Linux (if you know a good client for iOS or any other platform let me know!
 <br>
 <br>
-<b>Current prototype hardware:</b>
-
-Inair9b (sx1276) connected to Arduino via SPI using <a href="https://github.com/flok99/arduino-kiss">Arduino-KISS </a>
+<b>Current prototype hardware:</b><br>
+EASIEST/ Premade: <a href="https://lowpowerlab.com/shop/moteinomega">Moteino with built in RFM95 </a>
+<br>OR make your own: Inair9b (sx1276) or HopeRF RFM95 connected to Arduino via SPI
 <br>
-HopeRF RFM95 connected to Pi Zero via SPI using <a href="https://github.com/flok99/arduino-kiss">Arduino-KISS </a>
+<br>
 
 <b>Hopeful future features:</b>
 
