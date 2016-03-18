@@ -48,7 +48,7 @@ People have claimed huge distances with LoRa modules, some say in the dozens of 
 <b>Hardware:</b>
 -Raspberry Pi (any model)<br>
 -Inair9b Module or HopeRF RFM95<br>
-- Arduino UNO (awaiting testing on something more powerful
+- Arduino UNO (awaiting testing on something more powerful<br>
 -USB Wifi adapter that supports Hotspot<br>
 -Wires to connect module to Arduino / Pi<br>
 -alternatively, instead of using the wifi adapter you could use an esp8266, Bluetooth module, UART or any other method you prefer<br>
