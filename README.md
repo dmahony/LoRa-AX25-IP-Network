@@ -61,11 +61,7 @@ People have claimed huge distances with LoRa modules, some say in the dozens of 
 -Xabber XMPP for Android / Pidgin XMPP for Windows/Linux (if you know a good client for iOS or any other platform let me know!
 <br>
 <br>
-<b>Current prototype hardware:</b><br>
-EASIEST/ Premade: <a href="https://lowpowerlab.com/shop/moteinomega">Moteino with built in RFM95 </a>
-<br>OR make your own: Inair9b (sx1276) or HopeRF RFM95 connected to Arduino via SPI
-<br>
-<br>
+
 
 <b>Hopeful future features:</b>
 
@@ -88,6 +84,9 @@ https://www.youtube.com/watch?v=1ShYefsbnAE<br>
 <a href="http://www.gotenna.com/">GoTenna device, similar idea to what I want but uses the Multi Use Radio System (MURS) and is expensive.</a><br>
 
 <b>Installation Instructions are coming soon when the hardware is finalised! If you are impatient you can install it now yourself, I reccomend this AX25 Guide: http://www.qbjnet.com/packet.html</b>
+For the Hardware:<br>
+EASIEST/ PREMADE: <a href="https://lowpowerlab.com/shop/moteinomega">Moteino with built in RFM95 </a>
+<br>OR MAKE YOUR OWN: Inair9b (sx1276) or HopeRF RFM95 connected to Arduino via SPI
 
 <b>Contact</b><br>
 If anyone would like to contribute or ask any questions please don't hesitate to contact me on danielwmahony@gmail.com
