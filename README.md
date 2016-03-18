@@ -87,6 +87,8 @@ https://www.youtube.com/watch?v=1ShYefsbnAE<br>
 <a href="https://youtu.be/pkTlTCUeec0?t=622">Toorchat Hak5 demo with YARD stick one device</a><br>
 <a href="http://www.gotenna.com/">GoTenna device, similar idea to what I want but uses the Multi Use Radio System (MURS) and is expensive.</a><br>
 
+<b>Installation Instructions are coming soon when the hardware is finalised! If you are impatient you can install it now yourself, I reccomend this AX25 Guide: http://www.qbjnet.com/packet.html</b>
+
 <b>Contact</b><br>
 If anyone would like to contribute or ask any questions please don't hesitate to contact me on danielwmahony@gmail.com
 
