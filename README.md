@@ -86,8 +86,9 @@ https://www.youtube.com/watch?v=1ShYefsbnAE<br>
 <b>Installation Instructions are coming soon when the hardware is finalised! If you are impatient you can install it now yourself, I reccomend this AX25 Guide: http://www.qbjnet.com/packet.html</b>
 For the Hardware:<br>
 EASIEST/ PREMADE: <a href="https://lowpowerlab.com/shop/moteinomega">Moteino with built in RFM95 </a>
-<br>OR MAKE YOUR OWN: Inair9b (sx1276) or HopeRF RFM95 connected to Arduino via SPI
-
+<br>OR MAKE YOUR OWN: Inair9b (sx1276) or HopeRF RFM95 connected to Arduino via SPI<br>
+I'll eventually release a Raspberry Pi prebuilt image to make it easier for those not comfortable with Linux!
+<br>
 <b>Contact</b><br>
 If anyone would like to contribute or ask any questions please don't hesitate to contact me on danielwmahony@gmail.com
 
