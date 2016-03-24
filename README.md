@@ -83,7 +83,10 @@ https://www.youtube.com/watch?v=1ShYefsbnAE<br>
 <a href="https://youtu.be/pkTlTCUeec0?t=622">Toorchat Hak5 demo with YARD stick one device</a><br>
 <a href="http://www.gotenna.com/">GoTenna device, similar idea to what I want but uses the Multi Use Radio System (MURS) and is expensive.</a><br>
 
-<b>Installation Instructions are coming soon when the hardware is finalised! If you are impatient you can install it now yourself, I reccomend this AX25 Guide: http://www.qbjnet.com/packet.html</b><br>
+<b>Installation Instructions:</b><br>
+https://github.com/dmahony/Lora-Chat-Device/wiki/Installation-Instructions<br>
+
+
 For the Hardware:<br>
 EASIEST/ PREMADE: <a href="https://lowpowerlab.com/shop/moteinomega">Moteino with built in RFM95 </a>
 <br>OR MAKE YOUR OWN: Inair9b (sx1276) or HopeRF RFM95 connected to Arduino via SPI<br>
