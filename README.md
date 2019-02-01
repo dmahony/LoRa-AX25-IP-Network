@@ -28,9 +28,6 @@ Example BBS:<br>
 <img src="http://www.endtimeprophecy.net/Blog/wp-content/uploads/2015/03/BBS-Main-Menu.png" alt="example-bbs">
 
 <br>
-<p>I also have a few Maple Mini clones that are supposedly compatible with the RadioHead Packet Library that Arduino-KISS uses but I havent been able to get it working, if you know anything about Radiohead+Maple Mini please get in touch!
-Getting the Maple Mini working with this would make it so much cheaper than the other options, Maple Mini clones on AliExpress are extremely cheap and powerful, they use a STM32 F103RCBT6 32-bit ARM Cortex M3 microprocessor with 120 KB Flash and 20 KB SRAM!</p>
-<br>
 <br>
 <b>Range:</b>
 People have claimed huge distances with LoRa modules, some say in the dozens of Kilometers others say over 100 Kilometers (High Altitude Balloons) I'll report back as soon as I've done my own range tests.
