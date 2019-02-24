@@ -3,6 +3,10 @@
 cheap wireless modules and open source software to communicate over
 long distances using AX25 and IRC in the unlicensed ISM bands. </font>
 </p>
+<br>
+<img src="https://imgur.com/60f168d6-e4f7-45c2-85df-60115e1a8aae" alt="LoRa-Chat-diagram"> 
+<br>
+
 <p style="margin-bottom: 0in; line-height: 115%"><br/>
 <h1>Navigation</h1>
 <p style="margin-bottom: 0in; line-height: 115%">-Summary&nbsp;</p>
