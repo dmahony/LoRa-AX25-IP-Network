@@ -242,55 +242,18 @@ list:</b></p>
 <p align="left" style="margin-bottom: 0in; line-height: 0.2in"><br/>
 
 </p>
-<ul>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 115%">Create
-	installation script with prompts to set callsign, IP address, &nbsp;UART
-	or USB radio connection etc.</p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 115%"></p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 115%">Create a
-	Printed Circuit Board that holds a cheap Arduino / esp32 and LoRa
-	chip</p>
-</ul>
-<p style="margin-bottom: 0in; line-height: 115%"><br/>
 
-</p>
-<ul>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 115%">Maybe a web
-	interface? There is an excellent frontend for WeeChat called
-	GlowingBear:&nbsp;</p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 115%"><font color="#0000ff"><u><a href="https://github.com/glowing-bear/glowing-bear">https://github.com/glowing-bear/glowing-bear</a></u></font>
-	&nbsp;</p>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 115%">(May need
-	modification to work offline)&nbsp;</p>
-</ul>
-<p style="margin-bottom: 0in; line-height: 115%"><br/>
+Create installation script with prompts to set callsign, IP address,  UART or USB radio connection etc.<br>
 
-</p>
-<ul>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 115%">Modify linux
-	AXcall &nbsp;program to not require valid Amateur radio callsigns,
-	current workaround is to use a valid callsign as the source
-	address.&nbsp;</p>
-</ul>
-<p style="margin-bottom: 0in; line-height: 115%"><br/>
+Create a Printed Circuit Board that holds a cheap Arduino / esp32 and LoRa chip<br>
 
-</p>
-<ul>
-	<li/>
-<p style="margin-bottom: 0in; line-height: 115%">Create
-	Minimal sized image for fast deployment</p>
-</ul>
-<p style="margin-bottom: 0in; line-height: 115%"><br/>
+Maybe a web interface? There is an excellent frontend for WeeChat called GlowingBear:<br>
+https://github.com/glowing-bear/glowing-bear <br>
+(May need modification to work offline)<br>
 
-</p>
-<p style="margin-bottom: 0in; line-height: 115%"><br/>
+Modify linux AXcall  program to not require valid Amateur radio callsigns, current workaround is to use a valid callsign as the source address.<br>
+
+Create Minimal sized image for fast deployment<br>
 
 </p>
 </body>
