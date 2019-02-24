@@ -34,8 +34,6 @@ on a centralised service provider.
 	communities 
 	</p>
 </ul>
-<p style="margin-bottom: 0in; line-height: 115%"><br/>
-<img src="https://i.imgur.com/FNUfRha.jpg" alt="LoRa-Chat-diagram"> 
 <br>
 </p>
 <p style="margin-bottom: 0in; line-height: 115%">Using the LoRa
