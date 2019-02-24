@@ -1,4 +1,4 @@
-Lora Chat AX25</h1>
+<h1>Lora Chat AX25</h1>
 <p align="left" style="margin-bottom: 0in; line-height: 0.2in"><font face="Liberation Serif, serif">Utilising
 cheap wireless modules and open source software to communicate over
 long distances using AX25 and IRC in the unlicensed ISM bands. </font>
