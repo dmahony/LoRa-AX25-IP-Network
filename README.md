@@ -48,10 +48,9 @@ radios can send data over much further distances.</p>
 <p style="margin-bottom: 0in; line-height: 115%"><br/>
 
 </p>
-<p align="left" style="margin-bottom: 0in; line-height: 0.2in"><i>Range
-Test &nbsp;Pic Peregian to Coolum</i></p>
-<p align="left" style="margin-bottom: 0in; line-height: 0.2in"><br/>
-
+<br>
+<img src="http://i.imgur.com/tjdWeO5.png" alt="LoRa-Chat-coolum-peregian-test"> 
+<br>
 </p>
 <p align="left" style="margin-bottom: 0in; line-height: 0.2in"><i>Link
 to other Lora Range tests</i></p>
