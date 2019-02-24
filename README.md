@@ -4,7 +4,7 @@ cheap wireless modules and open source software to communicate over
 long distances using AX25 and IRC in the unlicensed ISM bands. </font>
 </p>
 <p style="margin-bottom: 0in; line-height: 115%"><br/>
-
+[![LoRachat IRC encrypted](https://img.youtube.com/vi/R3EcQO4Yrec/0.jpg)](https://www.youtube.com/watch?v=R3EcQO4Yrec)
 </p>
 <h1 class="western">Navigation</h1>
 <p style="margin-bottom: 0in; line-height: 115%">-Summary&nbsp;</p>
