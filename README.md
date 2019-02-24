@@ -4,9 +4,7 @@ cheap wireless modules and open source software to communicate over
 long distances using AX25 and IRC in the unlicensed ISM bands. </font>
 </p>
 <p style="margin-bottom: 0in; line-height: 115%"><br/>
-[![LoRachat IRC encrypted](https://img.youtube.com/vi/R3EcQO4Yrec/0.jpg)](https://www.youtube.com/watch?v=R3EcQO4Yrec)
-</p>
-<h1 class="western">Navigation</h1>
+<h1>Navigation</h1>
 <p style="margin-bottom: 0in; line-height: 115%">-Summary&nbsp;</p>
 <p style="margin-bottom: 0in; line-height: 115%">-Features&nbsp;</p>
 <p style="margin-bottom: 0in; line-height: 115%">-Deployment/Usage&nbsp;</p>
@@ -67,7 +65,9 @@ data can still provide us with chat and other basic text services.
 <br>
 <img src="https://i.imgur.com/3t4fcat.png" alt="Weechat-encrypted"> 
 <br>
-Wikipedia Summary Lookup - AX25 LoRa
+LoRachat IRC encrypted<br>
+https://youtu.be/R3EcQO4Yrec<br>
+Wikipedia Summary Lookup - AX25 LoRa<br>
 https://youtu.be/0-O8Qfpu2O0<br>
 
 </p>
