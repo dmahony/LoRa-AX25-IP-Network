@@ -63,11 +63,12 @@ data can still provide us with chat and other basic text services.
 <p align="left" style="margin-bottom: 0in; line-height: 0.2in"><br/>
 
 </p>
-<p align="left" style="margin-bottom: 0in; line-height: 0.2in"><i>Example
-video of Weechat</i></p>
-<p align="left" style="margin-bottom: 0in; line-height: 0.2in"><i>Example
-video of Wikipedia Lookup or News/ Weather</i></p>
-<p style="margin-bottom: 0in; line-height: 115%"><br/>
+
+<br>
+<img src="https://i.imgur.com/3t4fcat.png" alt="Weechat-encrypted"> 
+<br>
+Wikipedia Summary Lookup - AX25 LoRa
+https://youtu.be/0-O8Qfpu2O0<br>
 
 </p>
 <h1 class="western">Features</h1>
