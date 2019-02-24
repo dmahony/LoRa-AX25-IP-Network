@@ -204,7 +204,9 @@ code and makes it more efficient (no CRC etc):&nbsp;</span></span></font></font>
 </p>
 <p style="margin-bottom: 0in; font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 115%">
 <br/>
-
+Weechat crypt.py plugin<br>
+https://weechat.org/scripts/source/crypt.py.html/<br>
+	<br>
 </p>
 <p style="margin-bottom: 0in; font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 115%">
 <span style="display: inline-block; border: none; padding: 0in"><font face="Liberation, serif"><font size="3" style="font-size: 12pt"><span style="background: #ffffff"><font color="#000000">Weechat
