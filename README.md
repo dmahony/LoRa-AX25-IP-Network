@@ -176,19 +176,19 @@ Raspberry Pi Zero W allows for many different connection methods.</span></span><
 </p>
 <p style="margin-bottom: 0in; font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 115%">
 <br/>
-======================================================================================================================
-	</p>
-<h1 class="western">Other Hardware/h1>
+</p>
+<h1 class="western">Other Hardware</h1>
+<p style="margin-bottom: 0in; font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 115%">
+<br/>
 <br>
 E32-915T30D Lora Long Range UART SX1276 915mhz 1W from CDEBYTE store on Aliexpress: 
 https://www.aliexpress.com/item/2Pc-Lot-CDEBYTE-915MHz-8000m-Long-Range-SX1276-Wireless-Transmitter-rf-Module-E44-TTL-1W-UART/32802838747.html
 Great store on Aliexpress, worth having a look as they often have excellent deals.
 <br>
-	
+<br>
+	<h1 class="western">Software</h1>
 <p style="margin-bottom: 0in; font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 115%">
-<br/>Other Hardware to try
-</p>
-<h1 class="western">Software</h1>
+<br/>
 <p style="margin-bottom: 0in; font-variant: normal; letter-spacing: normal; font-style: normal; line-height: 115%">
 <span style="display: inline-block; border: none; padding: 0in"><font face="Liberation, serif"><font size="3" style="font-size: 12pt"><span style="background: #ffffff"><font color="#000000">Raspbian
 (debian) Stretch Lite:&nbsp;</span></span></font></font></font></p>
