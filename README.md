@@ -9,7 +9,7 @@
 <li>Testing low bandwidth applications eg, COAP ROHC</li>
 </ul>
 <p>LoRa radios allow us to reach much further distances than standard Wifi but at heavily reduced data rates. The small amount of data can still provide us with chat and other basic text services.</p>
-<p>Example: Encrypted Weechat</p>
+<img src="https://i.imgur.com/3t4fcat.png" alt="Weechat-encrypted"> 
 <h2>Features:</h2>
 <ul>
 <li>AX25 and TCP/IP networking</li>
