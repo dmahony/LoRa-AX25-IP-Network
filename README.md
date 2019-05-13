@@ -7,6 +7,9 @@
 <li>Remote communities</li>
 <li>Natural Disaster areas</li>
 <li>Testing low bandwidth applications eg, COAP ROHC</li>
+<li>Testing Decentralised apps like <a href="scuttlebutt">https://www.scuttlebutt.nz/ </a> and <a href="Tox Chat">https://tox.chat </a>/ </li>
+  
+  <a href="scuttlebutt">https://www.scuttlebutt.nz/ </a>
 </ul>
 <p>LoRa radios allow us to reach much further distances than standard Wifi but at heavily reduced data rates. The small amount of data can still provide us with chat and other basic text services.</p>
 <img src="https://i.imgur.com/3t4fcat.png" alt="Weechat-encrypted"> 
